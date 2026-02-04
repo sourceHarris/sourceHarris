@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Hidayah (AI-Powered Islamic Companion App) and my Direct-to-Consumer platform, Harris Studio <br><br>👯 I’m looking to collaborate on<br>AI-powered mobile applications, Data Science projects, or Open Source React Native tools <br><br>🤝 I’m looking for help with<br>Advanced Machine Learning optimization techniques and scalable backend architecture <br><br>🌱 I’m currently learning<br>Deep Learning pipelines with TensorFlow and advanced TypeScript patterns <br><br>💬 Ask me about<br>Data Science, React Native, Video Editing, or Color Science (I have 4+ years of experience!) <br><br>⚡ Fun fact<br>I built a fully interactive Windows 98 OS simulation for my portfolio using React and Vite.
+# 🔭 About Me:
+I am a Software Engineer and Data Scientist building AI-powered mobile apps and scalable web platforms. My stack focuses on Python (TensorFlow) for backend logic and React Native for frontend experiences. Currently, I’m developing Hidayah (an AI Islamic companion) and Harris Studio while completing my degree at KUST.
 
 
 ## 🌐 Socials:
