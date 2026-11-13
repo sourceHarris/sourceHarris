@@ -1,5 +1,5 @@
 # 🔭 About Me:
-I am a Software Engineer and Data Scientist building AI-powered mobile apps (React Native) and scalable web platforms (Python/TensorFlow). Currently, I’m developing Hidayah 2.0 (an AI Islamic companion) and FindUstad Ai features, having recently graduated with my BSc in Software Engineering from KUST.
+I am a Software Engineer and Data Scientist building AI-powered mobile apps (React Native) and scalable web platforms (Python/TensorFlow). Currently, I’m developing Hidayah 2.0 (an AI Islamic companion) and FindUstad Ai Features, having recently graduated with my BSc in Software Engineering from KUST.
 
 ### 🏆 Recent Achievements:
 - 🎓 **BSc in Software Engineering** from KUST 
@@ -8,6 +8,7 @@ I am a Software Engineer and Data Scientist building AI-powered mobile apps (Rea
 
 ## 🌐 Socials & Portfolio:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourceharris)
+[![Web Portfolio](https://img.shields.io/badge/Web_Portfolio-%2338AFBB.svg?logo=netlify&logoColor=white)](https://huzaifaharis.netlify.app/)
 [![FilmHex](https://img.shields.io/badge/FilmHex-Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://filmhex.com)
 
 # 💻 Tech Stack:
