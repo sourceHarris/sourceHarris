@@ -1,5 +1,5 @@
 # 🔭 About Me:
-I am a Software Engineer and Data Scientist building AI-powered mobile apps (React Native) and scalable web platforms (Python/TensorFlow). Currently, I’m developing Hidayah (an AI Islamic companion) and Harris Studio, having recently graduated with my BSc in Software Engineering from KUST.
+I am a Software Engineer and Data Scientist building AI-powered mobile apps (React Native) and scalable web platforms (Python/TensorFlow). Currently, I’m developing Hidayah 2.0 (an AI Islamic companion) and FindUstad Ai features, having recently graduated with my BSc in Software Engineering from KUST.
 
 ### 🏆 Recent Achievements:
 - 🎓 **BSc in Software Engineering** from KUST 
